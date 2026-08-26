@@ -5,3 +5,4 @@ A typical custom theme contains a .plymouth file plus images/scripts. After inst
 sudo plymouth-set-default-theme -R THEME_NAME
 sudo reboot
 The -R is important because Plymouth is loaded from the initramfs during boot. �
+The worst person in the world
